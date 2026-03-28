@@ -1,0 +1,22 @@
+Guide utilisateur de l'application
+
+1. Connexion
+L'utilisateur se connecte à l'application avec son identifiant et son mot de passe. Après connexion, il accède au tableau de bord principal.
+
+2. Importation d'un document
+Pour importer un document, l'utilisateur clique sur le bouton "Télécharger". Il peut sélectionner un fichier depuis son ordinateur. Une fois le fichier chargé, son nom apparaît dans l'interface.
+
+3. Lancement de l'analyse
+Après l'importation, l'utilisateur clique sur le bouton "Analyser". Le système commence alors le traitement du document. Pendant cette étape, un message de progression peut être affiché.
+
+4. Consultation des résultats
+Lorsque l'analyse est terminée, les résultats s'affichent dans l'espace prévu à cet effet. L'utilisateur peut voir les informations extraites, les indicateurs générés et les résumés disponibles.
+
+5. Consultation des rapports
+L'application permet de consulter les rapports générés après traitement. Ces rapports peuvent résumer les principales informations détectées dans le document.
+
+6. Exportation
+Si l'option est disponible, l'utilisateur peut cliquer sur "Exporter" ou "Télécharger le rapport" pour récupérer une copie du résultat.
+
+7. Navigation générale
+Le menu principal permet d'accéder aux différentes pages de l'application : accueil, importation, résultats, rapports et aide.

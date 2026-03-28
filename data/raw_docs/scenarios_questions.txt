@@ -1,0 +1,12 @@
+Questions de test pour le chatbot
+
+1. Comment importer un document ?
+2. Que faire si mon rapport est vide ?
+3. Pourquoi je ne vois pas les résultats ?
+4. Comment lancer l'analyse ?
+5. Où trouver les rapports ?
+6. Que signifie un résultat incomplet ?
+7. Pourquoi l'analyse prend du temps ?
+8. Comment exporter le rapport ?
+9. Que faire si le document ne se charge pas ?
+10. À quoi servent les indicateurs affichés ?

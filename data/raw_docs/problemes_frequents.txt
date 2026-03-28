@@ -1,0 +1,29 @@
+Problèmes fréquents et solutions
+
+1. Le document ne s'importe pas
+Cause possible : format non pris en charge, fichier vide ou fichier corrompu.
+Solution : vérifier le fichier, essayer un autre document, puis relancer l'importation.
+
+2. L'analyse prend du temps
+Cause possible : document long, qualité faible ou traitement en cours.
+Solution : patienter quelques instants et vérifier si l'état du traitement change.
+
+3. Les résultats n'apparaissent pas
+Cause possible : traitement non terminé ou problème d'affichage.
+Solution : actualiser la page, vérifier que l'analyse est terminée, puis réessayer.
+
+4. Le rapport est vide
+Cause possible : document peu lisible, document incomplet ou absence d'information exploitable.
+Solution : utiliser un document plus clair ou mieux scanné.
+
+5. Les informations semblent incomplètes
+Cause possible : certaines parties du document n'ont pas été correctement détectées.
+Solution : vérifier la qualité du document d'origine et relancer l'analyse si nécessaire.
+
+6. L'utilisateur ne comprend pas un résultat
+Cause possible : le résultat affiché est trop synthétique ou mal interprété.
+Solution : consulter l'aide, la FAQ, ou demander une explication simple via l'assistant.
+
+7. Export impossible
+Cause possible : rapport non encore généré ou problème temporaire.
+Solution : attendre la fin complète du traitement puis réessayer l'exportation.

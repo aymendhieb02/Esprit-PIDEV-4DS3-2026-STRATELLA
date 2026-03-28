@@ -1,0 +1,22 @@
+Interprétation des résultats
+
+1. Résultats extraits
+Les résultats extraits correspondent aux informations que l'application a pu identifier dans le document soumis. Ils peuvent inclure des éléments importants selon le type de document traité.
+
+2. Rapport généré
+Le rapport généré est un résumé structuré des informations détectées. Il aide l'utilisateur à lire rapidement les points principaux sans devoir parcourir tout le document original.
+
+3. Indicateurs
+Certains écrans peuvent afficher des indicateurs. Ces indicateurs servent à donner une vue synthétique des résultats. Ils aident à repérer rapidement les informations importantes ou les cas nécessitant une attention particulière.
+
+4. Résultat incomplet
+Un résultat incomplet ne signifie pas forcément une erreur du système. Cela peut venir d'un document de mauvaise qualité, d'un texte difficile à lire, ou d'un contenu partiellement exploitable.
+
+5. Absence de résultat
+Si aucun résultat n'est affiché, cela peut vouloir dire que le document ne contient pas d'information détectable, que le traitement n'est pas terminé, ou qu'un problème s'est produit pendant l'analyse.
+
+6. Vérification recommandée
+L'utilisateur doit toujours relire les résultats importants avant de prendre une décision. Le système aide à l'analyse, mais la vérification humaine reste utile.
+
+7. Objectif des résultats
+Les résultats sont conçus pour aider l'utilisateur à comprendre rapidement le contenu d'un document, repérer les éléments essentiels et gagner du temps.

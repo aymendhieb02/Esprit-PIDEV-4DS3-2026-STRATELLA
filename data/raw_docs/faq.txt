@@ -1,0 +1,25 @@
+FAQ - Questions fréquentes
+
+Q: Comment importer un document ?
+R: Cliquez sur le bouton "Télécharger", puis sélectionnez un fichier depuis votre ordinateur.
+
+Q: Comment démarrer le traitement ?
+R: Après avoir importé le document, cliquez sur "Analyser".
+
+Q: Où voir les résultats ?
+R: Les résultats s'affichent dans la page ou la section dédiée aux résultats après la fin du traitement.
+
+Q: Pourquoi les résultats n'apparaissent-ils pas immédiatement ?
+R: Le traitement peut prendre un certain temps. Il faut attendre la fin de l'analyse ou actualiser la page si nécessaire.
+
+Q: Comment récupérer le rapport ?
+R: Utilisez le bouton "Exporter" ou "Télécharger le rapport" si cette option est disponible.
+
+Q: Que faire si le document ne se charge pas ?
+R: Vérifiez que le fichier est valide, qu'il n'est pas vide, et qu'il respecte le format attendu par l'application.
+
+Q: Le rapport est vide, que faire ?
+R: Cela peut arriver si le document est illisible, incomplet, ou si aucune information exploitable n'a été détectée.
+
+Q: À quoi sert cette application ?
+R: L'application permet d'analyser des documents, d'extraire des informations utiles et d'aider l'utilisateur à consulter des résultats et des rapports.

@@ -1,0 +1,13 @@
+langchain #Pour construire plus facilement le pipeline RAG.
+langchain-community #Pour certains loaders et outils complémentaires.
+faiss-cpu #Pour l'indexation et la recherche efficace de vecteurs.
+sentence-transformers #Pour les modèles de transformation de phrases, utiles pour l'embedding.
+pypdf #Pour extraire du texte des fichiers PDF.
+python-docx #Pour extraire du texte des fichiers Word.
+streamlit #Pour créer une interface utilisateur simple et interactive.
+python-dotenv #Pour gérer les variables d'environnement, notamment les clés API.
+openai #Pour interagir avec les modèles de langage d'OpenAI.
+requests #Pour faire des requêtes HTTP, si nécessaire.
+langchain-text-splitters #Pour diviser les documents en morceaux plus petits, facilitant l'indexation et la recherche.
+langchain-huggingface #Pour utiliser les modèles de Hugging Face avec LangChain.
+cohere  #Pour utiliser les modèles de Cohere, si nécessaire.

@@ -1,0 +1,19 @@
+venv\Scripts\activate
+streamlit run app/app.py
+
+10. Premier choix technique simple pour ton projet
+
+Comme tu débutes, je te conseille ce choix :
+
+Langage : Python
+Framework RAG : LangChain
+Vector database : FAISS
+Embeddings : Sentence Transformers
+Interface : Streamlit
+
+Pourquoi ce choix ?
+
+simple,
+populaire,
+bon pour apprendre,
+suffisant pour un prototype académique ou projet étudiant.
