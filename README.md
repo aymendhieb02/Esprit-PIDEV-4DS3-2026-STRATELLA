@@ -36,16 +36,16 @@ The key question: *can adapting just ~1% of parameters match or beat full fine-t
 These plots illustrate training dynamics and qualitative performance across models.
 
 ### 🔹 Example Predictions (LoRA)
-![Predictions](images/predictions.png)
+![Predictions](./images/predictions.png)
 
 ### 🔹 LoRA Training Curve
-![LoRA](images/LORA_training_loss.png)
+![LoRA](./images/LORA_training_loss.png)
 
 ### 🔹 DoRA Training Curve
-![DoRA](images/dora_training.png)
+![DoRA](./images/dora_training.png)
 
 ### 🔹 Wav2Vec2 Training Curve
-![Wav2Vec2](images/wav2vec2_training.png)
+![Wav2Vec2](./images/wav2vec2_training.png)
 
 
 
