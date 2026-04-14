@@ -385,8 +385,8 @@ The winning Medical LoRA adapter was tested on Tunisian Arabic **without any Tun
 
 | Metric | Value |
 |---|---|
-| **Overall WER** | **54.72%** |
-| **Overall CER** | **28.24%** |
+| **Overall WER** | **79.39%** |
+| **Overall CER** | **46.06%** |
 
 > **Interpretation:** Whisper's multilingual pre-training allows it to produce Arabic tokens, but the Tunisian dialect, code-switching, and accent cause ~55% WER. This establishes the cross-domain baseline before Tunisian fine-tuning.
 
